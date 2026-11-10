@@ -128,3 +128,34 @@ a {
   margin-top: 8px;
   margin-bottom: 0;
 }
+
+/* Quote section */
+.quote-section {
+  background-color: #e5e7eb;
+  padding: 100px 20px;
+  margin: 0;
+}
+
+.quote-container {
+  max-width: 800px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.quote-text {
+  font-size: 36px;
+  font-style: italic;
+  color: #1f2937;
+  font-weight: 300;
+  margin: 0;
+  line-height: 1.2;
+}
+
+.quote-author {
+  font-size: 24px;
+  font-weight: 700;
+  color: #1f2937;
+  text-align: right;
+  margin-top: 12px;
+  margin-bottom: 0;
+}
