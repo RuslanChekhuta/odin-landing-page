@@ -198,3 +198,17 @@ a {
   border-radius: 8px;
   padding: 8px 32px;
 }
+
+/* Footer */
+
+.footer {
+  background-color: #1f2937;
+  padding-top: 35px;
+  padding-bottom: 35px;
+  text-align: center;
+}
+
+.footer p {
+  color: #e5e7eb;
+  margin: 0;
+}
